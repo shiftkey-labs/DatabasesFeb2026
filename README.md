@@ -27,6 +27,7 @@ By the end of this course, you will understand not only how to write SQL queries
 ---
 
 ## 📂 Repository Structure
+```
 Week_1/
 │── ER_Modeling/
 │── Basic_SQL/
@@ -46,7 +47,7 @@ Week_3/
 Week_4/
 │── Advanced_Patterns/
 │── Performance_Concepts/
-
+```
 ---
 
 ## ⚙️ Installation Requirements
