@@ -28,25 +28,48 @@ By the end of this course, you will understand not only how to write SQL queries
 
 ## 📂 Repository Structure
 ```
-Week_1/
-│── ER_Modeling/
-│── Basic_SQL/
-│── Codio_Assignment/
+Class_1_Data_Modeling_for_Real_World_Systems/
+│── Concepts/
+│   │── Entities_Relationships_Schema_Design
+│   │── Query_Driven_Data_Modeling
+│   │── Normalization_vs_Denormalization
+│   │── Read_vs_Write_Heavy_Schema_Design
+│── Tools/
+│   │── MySQL
 
-Week_2/
-│── Production_SQL/
-│── Indexing_Demo/
-│── Execution_Plans/
+Class_2_Production_SQL_and_Query_Execution/
+│── Concepts/
+│   │── Production_Level_SQL
+│   │── Query_Execution_Behavior
+│   │── Execution_Plans_EXPLAIN
+│   │── Indexing_Strategies
+│   │── Read_vs_Write_Performance_Tradeoffs
+│── Tools/
+│   │── MySQL
+│   │── SQL_Execution_Plan_Analysis
 
-Week_3/
-│── FastAPI_Integration/
-│── SQLAlchemy_Examples/
-│── Connection_Pooling_Demo/
-│── Postman_Collection/
+Class_3_Databases_Behind_APIs/
+│── Concepts/
+│   │── Backend_Database_Architecture
+│   │── API_Request_Lifecycle
+│   │── Database_Access_Patterns
+│   │── Connection_Pooling
+│   │── Pagination_Offset_and_Cursor
+│   │── ORM_vs_Raw_SQL_Tradeoffs
+│── Tools/
+│   │── Python_FastAPI
+│   │── ORM
+│   │── Postman
+│   │── Swagger_OpenAPI
 
-Week_4/
-│── Advanced_Patterns/
-│── Performance_Concepts/
+Class_4_Concurrency_Consistency_and_Reliability/
+│── Concepts/
+│   │── Transactions
+│   │── Commit_and_Rollback
+│   │── Race_Conditions
+│   │── Concurrent_Request_Handling
+│   │── Transaction_Isolation_Levels
+│   │── Read_Replicas_and_Consistency_Tradeoffs
 ```
 ---
 
