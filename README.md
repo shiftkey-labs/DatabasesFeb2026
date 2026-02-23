@@ -96,8 +96,9 @@ pip install pydantic python-dotenv
 
 ## 🧠 Learning Philosophy
 This course emphasizes:
-Understanding how databases behave in backend systems
-Writing efficient, scalable SQL
-Designing clean relational schemas
-Thinking in terms of data architecture, not just tables
-The goal is to bridge the gap between academic SQL knowledge and production-level backend development.
+
+- Understanding how databases behave in backend systems
+- Writing efficient, scalable SQL
+- Designing clean relational schemas
+- Thinking in terms of data architecture, not just tables
+- The goal is to bridge the gap between academic SQL knowledge and production-level backend development.
